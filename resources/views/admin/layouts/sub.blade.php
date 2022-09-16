@@ -22,7 +22,7 @@
 					<h4>
 						<a href="{{ route('user.show')}}">
 							<figure><i class="fas fa-mail-bulk"></i></figure>
-							<p>会員登録</p>
+							<p>アカウント一覧</p>
 						</a>
 					</h4>
                     <h4>

@@ -8,9 +8,9 @@
 @section('content')
 
 <div class="main-contet-inner">
-	<div class="page-ttl_ar">
-		<h1 class="page-ttl">会員一覧</h1>
-	</div>
+    <div class="page-ttl_ar">
+        <h1 class="page-ttl">アカウント一覧</h1>
+    </div>
     <div class="container">
         <div class="row justify-content-center">
             @if (session('error'))
